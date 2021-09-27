@@ -1,0 +1,157 @@
+body{
+    font-family: 'Sarabun' !important;
+    background-color: #f9f9f9;
+}
+.ham{
+    margin:1%;
+    color: #b5b7b8;
+}
+.navigation{
+    position: sticky;
+    top:0;
+    border-bottom: 2px solid white;
+}
+.navbar-brand{
+    font-family: 'Anton', sans-serif;
+}
+.wid{
+    width:600px !important;
+}
+.main-icon{
+    color:red;
+    font-size: 1.5rem;
+}
+.outline{
+    border: 1px solid #e0e4e8 !important
+}
+.search-icon{
+    color:#b5b7b8;
+}
+.nav-icon{
+    font-size: 1.5rem;
+    color:#8d8d8d;
+    margin: 0 2%;
+}
+.nav-icon2{
+    font-size: 1.5rem;
+    color:#2b84e8;
+    margin: 0 2%;
+}
+.nav-icon-class{
+    width: 20%;
+    margin-left: 520px;
+}
+/* content section  */
+.content1{
+    padding:2% 2.2% !important;
+    background-color: #f9f9f9;
+}
+.u-title{
+    margin:2% 0 0.5% 0;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+.u-sub-title{
+    font-family: 'Arial' !important;
+    font-size: 0.8rem;
+    color:#aca7a7;
+    font-weight: 500;
+}
+.dot{
+    font-size: 0.2rem;
+}
+.content-icons{
+    margin-left: 69%;
+}
+.icons{
+    font-weight: 500;
+    color: #464444;
+    font-size: 18px;
+    display: inline-block;
+    margin: 0 2%;
+}
+.text{
+    font-size: 0.93rem;
+}
+.hori{
+    width: 13%;
+    color: black;
+    transform: translateX(745px);
+}
+.rule{
+    line-height: 0;
+    color:#d6d6d6;
+}
+.channel-icon{
+    font-size: 4.5rem;
+    float: left;
+}
+.channel-text{
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 1000;
+}
+.channel{
+    color:#aca7a7;
+    position: relative;
+    top:20px;
+    left:5px;
+    width:20%;
+}
+.channel a{
+    text-decoration: none !important;
+    color:#aca7a7 !important;
+}
+.channel-content{
+    margin-left: 60px;
+    color: black;
+    font-weight: 800;
+}
+.show-more a{
+    margin-left: 60px;
+    text-decoration: none;
+    color:#aca7a7;
+    font-size: 0.9rem;
+}
+p a:hover{
+    color: black;
+}
+.subscribed{
+    position:relative;
+    bottom:70px;
+    left:900px;
+}
+.subscribe-btn{
+    background-color: #cc0000;
+    border-color: #cc0000;
+    color: white;
+    font-weight: 700;
+    margin-right:10px;
+}
+/* content part 2 */
+.content2{
+    background-color: #f9f9f9;
+}
+.videos{
+    float: right;
+}
+.channel-2{
+    color:#726d6d;
+    position: relative;
+    top:0px;
+    right:10px;
+    width:40%;
+    font-size: 0.7rem;
+}
+.channel-2 a{
+    text-decoration: none !important;
+    color:#aca7a7 !important;
+}
+.channel-text-2{
+    color: black;
+    font-size: 1rem;
+    font-weight: 1000;
+}
+.spacing{
+    padding-top:1%;
+}
